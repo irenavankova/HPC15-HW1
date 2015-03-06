@@ -13,6 +13,7 @@ int main(int argc, char *argv[]) {
     int rank, msgout, msgin, size;
     msgin = 0;
 	int i;
+//sdfgsdfgdaf
 
 
 
